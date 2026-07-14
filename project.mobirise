@@ -1,0 +1,766 @@
+{
+  "settings": {
+    "name": "https://yu-sleepe.com",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#9d8849",
+        "successColor": "#1a6cbd",
+        "infoColor": "#9d8849",
+        "warningColor": "#FFE161",
+        "dangerColor": "#9d8849",
+        "mainFont": "Jost",
+        "display1Font": "Oswald",
+        "display1Size": "2.3",
+        "display2Font": "Montserrat",
+        "display2Size": "2.1",
+        "display5Font": "Montserrat",
+        "display5Size": "1.8",
+        "display7Font": "Lato",
+        "display7Size": "1.2",
+        "display4Font": "Lato",
+        "display4Size": "1.1",
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#edfbed",
+        "#2e7a3d",
+        "#e3fde2",
+        "#fff9f5",
+        "#ffefe1",
+        "#9d8849",
+        "#f5f7fa"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.6.13",
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Roboto', sans-serif",
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Open Sans', sans-serif",
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800,300i,400i,500i,600i,700i,800i"
+      },
+      {
+        "css": "'Roboto Slab', serif",
+        "name": "Roboto Slab",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      },
+      {
+        "css": "'Montserrat', sans-serif",
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Lato', sans-serif",
+        "name": "Lato",
+        "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
+      }
+    ],
+    "uniqCompNum": 861,
+    "versionPublish": "6.0.6",
+    "imageResize": false,
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-yusleep.ico",
+    "mbrsiteDomain": "zbfehu1lk4",
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "global_header_custom": "<meta name=\"keywords\" content=\"Yu Sleep Reviews USA, Yu Sleep USA, liquid sleep support USA, natural sleep support USA, restful sleep support USA, nighttime relaxation support USA, healthy sleep quality USA, sleep wellness supplement USA, evening calm support USA, Yu Sleep Official USA\">\n\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\">\n<meta name=\"revisit-after\" content=\"7 days\">\n\n<link rel=\"canonical\" href=\"https://yu-sleepe.com\">\n\n<!-- Open Graph / Facebook -->\n\n<meta property=\"og:title\" content=\"Yu Sleep USA | Advanced Liquid Sleep Wellness Support\">\n<meta property=\"og:description\" content=\"Yu Sleep Official USA offers liquid sleep support for relaxation, better bedtime routines, and healthy sleep quality with convenient daily nighttime use.\">\n<meta property=\"og:type\" content=\"product\">\n<meta property=\"og:url\" content=\"https://yu-sleepe.com\">\n<meta property=\"og:site_name\" content=\"Yu Sleep Official USA\">\n<meta property=\"og:image\" content=\"https://yu-sleepe.com/assets/images/yusleep-three-bottle.webp\">\n\n<!-- Twitter Card -->\n\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Yu Sleep USA | Advanced Liquid Sleep Wellness Support\">\n<meta name=\"twitter:description\" content=\"Yu Sleep Official USA offers liquid sleep support for relaxation, better bedtime routines, and healthy sleep quality with convenient daily nighttime use.\">\n<meta name=\"twitter:site\" content=\"@YuSleepUSA\">\n<meta name=\"twitter:creator\" content=\"@YuSleepUSA\">\n<meta name=\"twitter:image\" content=\"https://yu-sleepe.com/assets/images/yusleep-three-bottle.webp\">\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"Yu Sleep USA | Advanced Liquid Sleep Wellness Support\",\n  \"image\": \"https://yu-sleepe.com/assets/images/yusleep-three-bottle.webp\",\n  \"description\": \"Yu Sleep Official USA offers liquid sleep support for relaxation, better bedtime routines, and healthy sleep quality with convenient daily nighttime use.\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Yu Sleep\"\n  },\n  \"sku\": \"YUS-USA-001\",\n  \"url\": \"https://yu-sleepe.com\",\n  \"category\": \"Liquid Sleep Wellness Supplement\",\n  \"keywords\": \"Yu Sleep Reviews USA, Yu Sleep USA, liquid sleep support USA, natural sleep support USA, restful sleep support USA, nighttime relaxation support USA, healthy sleep quality USA, sleep wellness supplement USA, evening calm support USA, Yu Sleep Official USA\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"url\": \"https://yu-sleepe.com\",\n    \"priceCurrency\": \"USD\",\n    \"price\": \"39.00\",\n    \"availability\": \"https://schema.org/InStock\",\n    \"itemCondition\": \"https://schema.org/NewCondition\",\n    \"priceValidUntil\": \"2027-12-31\"\n  },\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"4.8\",\n    \"reviewCount\": \"2759\"\n  },\n  \"review\": [\n    {\n      \"@type\": \"Review\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"Olivia Parker\"\n      },\n      \"datePublished\": \"2026-07-14\",\n      \"reviewBody\": \"Yu Sleep has become an easy part of my evening wellness routine. I enjoy the liquid format and appreciate having a simple option that supports relaxation, restful nights, and healthier bedtime habits.\",\n      \"reviewRating\": {\n        \"@type\": \"Rating\",\n        \"ratingValue\": \"5\",\n        \"bestRating\": \"5\"\n      }\n    },\n    {\n      \"@type\": \"Review\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"James Mitchell\"\n      },\n      \"datePublished\": \"2026-07-14\",\n      \"reviewBody\": \"I added Yu Sleep to my nighttime routine because it fits easily into my schedule. The liquid format is convenient, and I like using it as part of my focus on better sleep habits.\",\n      \"reviewRating\": {\n        \"@type\": \"Rating\",\n        \"ratingValue\": \"5\",\n        \"bestRating\": \"5\"\n      }\n    }\n  ],\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Why is a regular bedtime schedule helpful for sleep wellness?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Following a regular bedtime schedule can help support the body's natural daily rhythm. Consistent sleep and wake times may encourage healthier nighttime habits and a more balanced routine.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How can evening habits influence nighttime comfort?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Calming evening habits such as reducing screen time, practicing relaxation activities, and creating a comfortable environment may help support a smoother transition from daily activities to bedtime.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Why is relaxation important before going to bed?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Relaxation before bedtime allows the mind and body to prepare for rest. Peaceful activities and a consistent nighttime routine may support a more comfortable sleep experience.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What daily habits may support better sleep wellness?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Healthy daily habits such as regular activity, balanced meals, proper hydration, and mindful evening routines can support overall wellness and contribute to better sleep patterns.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Why do many adults focus on improving their nighttime routine?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"A consistent nighttime routine can help create a relaxing environment before rest. Many adults use calming habits to support better sleep quality and refreshed mornings.\"\n      }\n    }\n  ]\n}\n</script>",
+    "site_lang": "en",
+    "modified": "2023-01-18T15:58:52.279Z",
+    "usedWebp": true,
+    "pwa-switcher": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Yu Sleep USA | Advanced Liquid Sleep Wellness Support",
+        "meta_descr": "Yu Sleep Official USA offers liquid sleep support for relaxation, better bedtime routines, and healthy sleep quality with convenient daily nighttime use.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/yusleep-three-bottle.webp"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {},
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    .hidden {\n      display: none;\n    }\n  </style>\n</head>\n<body>\n \n\n  [JS_CODE_0]\n</body>\n</html>",
+          "_cid": "tCpGqyHpGg",
+          "_anchor": "content5-5f",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    const keywords = ['metaboflex', 'metabo flex supplement','metabo flex official','metabo flex supplement','metaboflex','metaboflex','metabo flex official','metabo flex','metaboflex','metaboflex','metaboflex','metaboflex','metaboflex','metabo flex','metaboflex','metaboflex','metaboflex','metabo flex','metaboflex','metabo flex','metabo flex','metabo flex','metabo flex','metabo flex','metabo flex','metaboflex','metabo flex','metaboflex','metaboflex','metabo flex','metabo flex','metabo flex','metaboflex','metabo flex','metaboflex','metaboflex','metabo flex','metabo flex','metaboflex official','metabo flex','metaboflex','metabo flex','metabo flex','metabo flex','metabo flex','metaboflex',];\n    const textElement = document.getElementById('text');\n    let text = textElement.innerHTML;\n\n    keywords.forEach(keyword => {\n      const regex = new RegExp(keyword, 'gi');\n      const replacement = `<span class=\"hidden\">${keyword}</span>`;\n      text = text.replace(regex, replacement);\n    });\n\n    textElement.innerHTML = text;\n  </script>"
+          ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {},
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    .hidden {\n      display: none;\n    }\n  </style>\n</head>\n<body>\n \n\n  [JS_CODE_0]\n</body>\n</html>",
+          "_cid": "tCBn4WLo3A",
+          "_anchor": "content5-5i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    const keywords = ['cortexi', 'cortexi drops','cortexi official','cortexi official','cortexi drops','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi',];\n    const textElement = document.getElementById('text');\n    let text = textElement.innerHTML;\n\n    keywords.forEach(keyword => {\n      const regex = new RegExp(cortexi, 'gi');\n      const replacement = `<span class=\"hidden\">${cortexi drops}</span>`;\n      text = text.replace(regex, replacement);\n    });\n\n    textElement.innerHTML = text;\n  </script>"
+          ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Yu Sleep</b></h1>\n                <h2 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>Convenient Nighttime Solution For Relaxation &amp; Sleep Support</b></h2>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfuibYFm2",
+          "_anchor": "header",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "& when (@fullWidth)": {
+              ".text-wrapper": {
+                "padding": "1rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-wrapper": {
+                "margin-bottom": "1rem"
+              }
+            },
+            "img": {
+              "width": "100%"
+            },
+            "@media (min-width: 992px)": {
+              ".text-wrapper": {
+                "padding": "2rem"
+              }
+            }
+          },
+          "_name": "image1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"4\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Description\" name=\"showDescription\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/yusleep-three-bottle.webp\" alt=\"yusleep-three-bottle\">\n                    <p class=\"mbr-description mbr-fonts-style pt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showDescription\" data-app-selector=\".mbr-description\">\n                    Yu Sleep Liquid – 30-Day Supply, Natural Nighttime Sleep Support.</p>\n                </div>\n            </div>\n            <div class=\"col-12\" mbr-class=\"{'col-lg' : !fullWidth, 'col-lg-4' : fullWidth &amp;&amp; textWidth >= 6, 'col-lg-6' : fullWidth &amp;&amp; textWidth <= 5}\">\n                <div class=\"text-wrapper\">\n                    <h3 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">\n                        <b>Image with Description</b></h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                        Use Mobirise website building software to create multiple sites for commercial and non-profit projects. Click on the image in this block to replace it. You can add a description below your image, or on the side. If you want to hide some of the text fields, open the Block parameters, and uncheck relevant options.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfvgihBNI",
+          "_anchor": "image",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#edfbed\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"https://yu-sleepe.com/order\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Visit Official Website&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content11-ne",
+          "_isUserblock": true,
+          "_cid": "vpfvVQNmRq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>\n                    What is Yu Sleep?</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><a href=\"https://yu-sleepe.com\" class=\"text-primary\"><b>Yu Sleep</b></a> is a liquid sleep support supplement created for adults in the USA who want to support better nighttime relaxation, healthy sleep quality, and a more balanced bedtime routine. It provides daily support for people looking to unwind after busy days, encourage restful sleep, and wake up feeling refreshed. With its convenient liquid format, Yu Sleep fits easily into an evening wellness routine without adding complexity to your daily habits.\n<br>\n<br>Yu Sleep is made for individuals seeking natural sleep support, relaxation support, and healthy sleep cycle support as part of their overall wellness lifestyle. It helps promote a calm nighttime experience while supporting the body’s natural sleep rhythm. Whether occasional rest challenges or a busy lifestyle affect your evening routine, Yu Sleep offers a simple way to support peaceful nights, improved rest, and refreshed mornings with consistent daily use.&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfwyRBrZF",
+          "_anchor": "what-is-yu-sleep",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Ingredients</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    You can arrange your articles with the Mobirise website design software.\n                </h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_isUserblock": true,
+          "_anchor": "features",
+          "_cid": "vpfxYdru5Q",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "list-style": "none",
+                    "padding-left": "1rem",
+                    "position": "relative",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "-40px",
+                      "margin-top": "5px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "line-height": "40px",
+                      "transition": "all .2s",
+                      "color": "contrast(@iconColor)",
+                      "background": "@iconColor",
+                      "width": "40px",
+                      "height": "40px",
+                      "border-radius": "50%",
+                      "display": "flex",
+                      "align-items": "center",
+                      "justify-content": "center",
+                      "& when (@squareCounters)": {
+                        "border-radius": "0"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content9",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content9\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#2e7a3d\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-7\">Yu Sleep includes a blend of sleep-support nutrients, botanical extracts, calming compounds, and wellness-focused ingredients selected to support relaxation, healthy sleep patterns, and nighttime comfort. Each component plays a role in supporting a balanced bedtime routine and helping adults maintain a natural approach to restful sleep.</h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ol>\n                        <li><b>5-HTP -&nbsp;</b>5-HTP is commonly used in sleep wellness products to support serotonin pathways involved in relaxation and normal sleep regulation. It may help encourage a calmer evening routine and support healthy rest.</li><li><b style=\"font-size: 1.2rem;\">Apigenin -&nbsp;</b><span style=\"font-size: 1.2rem;\">Apigenin is a naturally occurring plant compound known for its relaxing properties. It helps support a peaceful nighttime environment by promoting a sense of calm before bedtime.</span></li><li><b style=\"font-size: 1.2rem;\">GABA -&nbsp;</b><span style=\"font-size: 1.2rem;\">GABA is a naturally occurring neurotransmitter that supports relaxation and nervous system balance. It may help the body and mind settle down after daily activities, supporting restful evenings.</span></li><li><b style=\"font-size: 1.2rem;\">Lemon Balm Extract -&nbsp;</b><span style=\"font-size: 1.2rem;\">Lemon Balm Extract has traditionally been used to support relaxation and emotional comfort. It may help create a smoother transition from daytime activity to a more peaceful bedtime routine.</span></li><li><b style=\"font-size: 1.2rem;\">L-Theanine -&nbsp;</b><span style=\"font-size: 1.2rem;\">L-Theanine is a naturally sourced amino acid that supports mental calmness and relaxation. It may help promote a relaxed state while maintaining a balanced daily routine.</span></li><li><b style=\"font-size: 1.2rem;\">Magnesium Glycinate -&nbsp;</b><span style=\"font-size: 1.2rem;\">Magnesium Glycinate supports normal muscle function and nervous system health. It is commonly included in nighttime wellness supplements to encourage physical relaxation and bedtime comfort.</span></li><li><b style=\"font-size: 1.2rem;\">Melatonin -&nbsp;</b><span style=\"font-size: 1.2rem;\">Melatonin is naturally produced by the body and plays an important role in regulating the sleep-wake cycle. It supports healthy sleep timing and consistent nighttime patterns.</span></li><li><b style=\"font-size: 1.2rem;\">Red Tart Cherry Extract -&nbsp;</b><span style=\"font-size: 1.2rem;\">Red Tart Cherry Extract contains natural compounds associated with sleep wellness. It supports healthy nighttime rest and complements a balanced approach to sleep support.</span></li></ol>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfzQEuAzX",
+          "_anchor": "feature",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Supplement Facts</b></h2>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    You can arrange your articles with the Mobirise website design software.\n                </h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_isUserblock": true,
+          "_anchor": "content4-nw",
+          "_cid": "vpfHBnj273",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "table1",
+          "_sourceTheme": "directm4",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"table1 directm4_table1 section-table\" group=\"Tables\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\" plugins=\"dataTables\">\n\n\t\n\n\t<mbr-parameters>\n\t\t\n\t\t<header>Size</header>\n\t\t<input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\t\t<input type=\"range\" inline title=\"Table Width\" name=\"tableWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"94\">\n\t\t<input type=\"range\" inline title=\"Search Results Width\" name=\"searchResultsWidth\" min=\"1\" max=\"12\" step=\"1\" value=\"6\" condition=\"isSearch\">\n\t\t<input type=\"range\" inline title=\"Columns\" name=\"tableColumns\" min=\"1\" max=\"50\" step=\"1\" value=\"2\">\n\t\t<input type=\"range\" inline title=\"Rows\" name=\"tableRows\" min=\"1\" max=\"50\" step=\"1\" value=\"6\">\n\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Sort\" name=\"showSort\">\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n\t\t<input type=\"checkbox\" title=\"Search\" name=\"isSearch\">\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\">\n\t\t<input type=\"text\" title=\"Text Empty\" name=\"textEmpty\" condition=\"isSearch\" value=\"No matching records found\">\n\t\t<input type=\"checkbox\" title=\"Hover Effect\" name=\"showHoverEffect\">\n\t\t<input type=\"color\" title=\"Row Hover Color\" name=\"tbHover\" value=\"#c1c1c1\" condition=\"showHoverEffect\">\n\t\t<input type=\"color\" title=\"Row Bottom Border\" name=\"borderColor\" value=\"#eceeef\">\n\t\t<input type=\"checkbox\" title=\"Table Background\" name=\"tbBackground\">\n\t\t<input type=\"color\" title=\"Table Background Color\" name=\"tbBgColor\" value=\"#ffffff\" condition=\"tbBackground\">\n\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Background Image\" value=\"@ADDONS_PATH@/directm4/components/_images/background3.jpg\">\n\t\t\t<input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n\t\t</fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/directm4/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t\n\t</mbr-parameters>\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\n\t<div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\t\t<div class=\"media-container-row align-center\">\n\t\t\t<div class=\"col-12 col-md-12\">\n\t\t\t\t<h2 class=\"mbr-section-title mbr-fonts-style mbr-black pb-3\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .head-item\"><b>\n\t\t\t\t\tSupplement Facts</b></h2>\n\t\t\t\t<h3 class=\"mbr-section-subtitle  mbr-fonts-style pb-3\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle, .table tbody .tableColumns .body-item, .table\">\n\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe alias nam architecto iure, sapiente\n\t\t\t\t\taccusantium expedita maxime beatae deserunt ducimus fugit pariatur, cum molestias provident, vitae\n\t\t\t\t\tdolorum consequuntur, officiis soluta!\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"table-wrapper mt-5\">\n\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div class=\"row search\" mbr-if=\"isSearch\">\n\t\t\t\t\t\t\t<div class=\"col-md-6\"></div>\n\t\t\t\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t\t\t\t<div class=\"dataTables_filter\">\n\t\t\t\t\t\t\t\t\t<label mbr-text class=\"searchInfo mbr-fonts-style\" mbr-theme-style=\"display-7\">Search:</label>\n\t\t\t\t\t\t\t\t\t<input class=\"form-control input-sm\" disabled>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"container scroll\">\n\t\t\t\t\t\t<table class=\"table mx-auto\" cellspacing=\"0\" mbr-class=\"{'isSearch':isSearch}\" data-empty=\"{{textEmpty}}\">\n\t\t\t\t\t\t\t<thead>\n\t\t\t\t\t\t\t\t<tr class=\"table-heads\" mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<th mbr-text class=\"head-item mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".table .table-heads .head-item\">Detail</th>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<th mbr-text class=\"head-item mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".table .table-heads .head-item\">Value</th></tr>\n\t\t\t\t\t\t\t</thead>\n\n\t\t\t\t\t\t\t<tbody mbr-list mbr-list-grow=\"tableRows\">\n\t\t\t\t\t\t\t\t<tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Supply Per Bottle</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">30 days</td></tr>\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Supplement Type</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Liquid dietary supplement</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Sleep Support</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Restful sleep and relaxation</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Nighttime Focus</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Sleep cycle and evening calm</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Suitable For</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Adults</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Wellness Support</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Healthy bedtime routine</td></tr></tbody>\n\t\t\t\t\t\t</table>\n\t\t\t\t\t\t<div class=\"container table-info-container\">\n\t\t\t\t\t\t\t<div class=\"row info justify-content-start  \" mbr-if=\"isSearch\">\n\t\t\t\t\t\t\t\t<div class=\"col-lg-{{searchResultsWidth}} col-md-12 p-0\">\n\t\t\t\t\t\t\t\t\t<div class=\"dataTables_info mbr-fonts-style\" mbr-theme-style=\"display-7\">\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoBefore\" data-app-selector=\".table-info-container .dataTables_info\">Showing</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"inactive infoRows\"></span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoAfter\" data-app-selector=\".table-info-container .dataTables_info\">entries</span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoFilteredBefore\" data-app-selector=\".table-info-container .dataTables_info\">(filtered\n\t\t\t\t\t\t\t\t\t\t\tfrom</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"inactive infoRows\"></span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoFilteredAfter\" data-app-selector=\".table-info-container .dataTables_info\">\n\t\t\t\t\t\t\t\t\t\t\ttotal\n\t\t\t\t\t\t\t\t\t\t\tentries)</span>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<p class=\"pt-4 mbr-fonts-style mbr-text align-center\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem\n\t\t\t\t\tdeleniti, rerum fugiat fugit magnam, ipsa id omnis iste animi maiores ratione ullam, temporibus\n\t\t\t\t\tsuscipit. Dolore unde, tenetur recusandae odit. Magni!</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".container-fluid": {
+              "padding": "0 3rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            ".scroll": {
+              "overflow-x": "auto",
+              "padding": "0"
+            },
+            ".table-wrapper": {
+              "margin": "0 auto"
+            },
+            "table": {
+              "width": "~\"@{tableWidth}%\" !important",
+              "margin-top": "6px",
+              "margin-bottom": "0",
+              "thead tr": {
+                "border": "none !important"
+              },
+              "th": {
+                "padding": "1.2rem 1.6rem",
+                "text-align": "left",
+                "@newBorderColor": "darken(@borderColor, 1%)",
+                "border-color": "@newBorderColor",
+                "border-top": "none",
+                "color": "white",
+                "vertical-align": "middle",
+                "& when (@tbBackground)": {
+                  "background": "@tbBgColor"
+                }
+              },
+              "tr td": {
+                "border-color": "@borderColor"
+              },
+              "td": {
+                "padding": "1.2rem 1.6rem",
+                "vertical-align": "middle",
+                "min-width": "120px"
+              },
+              "&.table": {
+                "& when (@tbBackground)": {
+                  "background": "@tbBgColor"
+                }
+              }
+            },
+            "& when (@showHoverEffect)": {
+              "tr:hover": {
+                "background-color": "@tbHover !important"
+              }
+            },
+            "& when (@showSort)": {
+              ".dataTables_scrollHead th:after, .dataTables_scrollHead th:before": {
+                "bottom": "auto !important",
+                "top": "50% !important",
+                "transform": "translateY(-60%)"
+              },
+              ".dataTables_scrollHead th:before": {
+                "right": "15px !important"
+              },
+              ".dataTables_scrollHead th:after": {
+                "right": "5px !important"
+              }
+            },
+            "& when not (@showSort)": {
+              "th:after, th:before": {
+                "display": "none !important"
+              }
+            },
+            ".dataTables_scrollHeadInner": {
+              "margin-left": "auto",
+              "margin-right": "auto",
+              ".table": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 767px)": {
+              "table": {
+                "th, td": {
+                  "padding": ".75rem"
+                }
+              }
+            },
+            ".body-item": {
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            },
+            ".head-item": {
+              "color": "#232323"
+            },
+            ".dataTables_info": {
+              "padding-bottom": "1rem",
+              "padding-top": "1rem"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title, .head-item": {
+              "text-align": "left"
+            }
+          },
+          "_cid": "vpfGXQhrkl",
+          "_anchor": "table",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>How to Use It</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Use Yu Sleep by following the serving instructions provided on the product label. Taking the recommended amount consistently as part of your evening routine can help create a regular bedtime habit. Many users prefer adding it to their nighttime schedule at a similar time each day for a simple and convenient sleep wellness routine.<br><br>Yu Sleep works best when combined with healthy sleep habits, including maintaining a consistent bedtime, creating a comfortable sleep environment, reducing late-night distractions, and following a relaxing evening routine. Individual experiences may vary depending on lifestyle habits, stress levels, sleep schedules, and daily routines.<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfAgByqyD",
+          "_anchor": "how-to-use",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Safety &amp; Considerations</b></h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Yu Sleep is intended for adult use and should be taken only as directed on the product label. Do not use more than the recommended serving amount. Stop use if any unwanted effects occur and consult a qualified healthcare professional when needed.<br><br>Individuals who are pregnant, nursing, under 18, managing health concerns, or currently using prescription medications should seek professional advice before adding Yu Sleep to their wellness routine. Always read the product instructions carefully and use supplements responsibly.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "learning",
+          "_cid": "vpfADrCNlX",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Refund Policy</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Yu Sleep comes with a 60-day money-back policy. Customers should review the official purchase terms, return requirements, and refund conditions before placing an order. This policy allows customers time to experience Yu Sleep as part of their regular nighttime wellness routine and decide if it matches their personal sleep support needs.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "Guarantee",
+          "_cid": "vpfARhpj4B",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Frequently Asked Questions</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><b>What is Yu Sleep?<br></b>Yu Sleep is a liquid sleep support supplement created for adults in the USA who want to support restful nights, relaxation, and healthy sleep habits. It helps complement a consistent bedtime routine by supporting the body’s natural sleep cycle. Yu Sleep offers a convenient way to include nighttime wellness support as part of a balanced daily lifestyle.<br><br><b>How does Yu Sleep work?<br></b>Yu Sleep works by supporting the body’s natural processes involved in relaxation and healthy sleep patterns. Its blend of sleep-support nutrients and calming components helps encourage a peaceful transition into bedtime. When combined with healthy sleep habits, Yu Sleep can support a more comfortable nighttime routine and help users maintain consistent rest.<br><br><b>How should I take Yu Sleep?<br></b>Yu Sleep should be taken according to the serving instructions provided on the product label. Many users add it to their evening routine at a similar time each night to maintain consistency. Following a regular bedtime schedule, limiting distractions, and creating a relaxing environment may further support a healthy sleep routine.<br><br><b>Who can use Yu Sleep?<br></b>Yu Sleep is intended for adults who want to support relaxation, healthy sleep quality, and nighttime wellness. It may be suitable for people looking to improve their bedtime habits and support restful sleep. Individuals under 18, pregnant or nursing individuals, and those taking medications should consult a healthcare professional before use.<br><br><b>What are the benefits of using Yu Sleep?<br></b>Yu Sleep supports several areas of nighttime wellness, including relaxation, healthy sleep patterns, and a refreshed morning feeling. It helps promote a calming bedtime experience and supports a balanced sleep routine. Regular use along with healthy lifestyle habits may help adults maintain better sleep quality and overall daily wellness.<br><br><b>Is Yu Sleep a liquid sleep supplement?<br></b>Yes, Yu Sleep comes in a convenient liquid format that makes it easy to include in a nightly routine. The liquid form provides a simple alternative for adults who prefer not to use traditional capsules. It can be added to an evening wellness schedule as part of a consistent approach to sleep support.<br><br><b>Does Yu Sleep support the natural sleep cycle?<br></b>Yu Sleep supports the body’s natural sleep-wake cycle by providing nutrients commonly used in nighttime wellness products. A healthy sleep cycle depends on regular habits, relaxation, and consistent routines. Yu Sleep can complement these practices by supporting a calm evening routine and encouraging a more balanced approach to restful sleep.<br><br><b>How long does it take to notice results with Yu Sleep?<br></b>Individual experiences with Yu Sleep may vary depending on lifestyle, sleep habits, stress levels, and daily routines. Some people may notice changes sooner, while others may need consistent use as part of their bedtime routine. Maintaining healthy sleep habits alongside Yu Sleep can support better nighttime wellness over time.<br><br><b>Where can I buy Yu Sleep in the USA?<br></b>The recommended place to purchase Yu Sleep is through the official website. Ordering from the official source helps customers receive authentic products, access available package options, and get current purchase information. Buyers can review pricing details, shipping options, and customer support information directly before placing an order.<br><br><b>Is Yu Sleep safe for daily use?<br></b>Yu Sleep is intended for adults and should be used according to the instructions provided on the product label. Before adding any supplement to your routine, review the usage directions carefully. People with health conditions or those using prescription medications should consult a healthcare professional before starting Yu Sleep.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "FAQs",
+          "_cid": "vpfBEM9UnA",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#edfbed\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"https://yu-sleepe.com/order\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Visit Official Website&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_anchor": "content11-nr",
+          "_cid": "vpfCM8Dfbl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".media-container-row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "width": "auto",
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            },
+            ".card-text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "footer3",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://x.com/Heathcarelife\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.instagram.com/health_life24x7/\" target=\"_blank\">\n                            <span class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                        </a>\n                    </div>\n                    \n                <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/profile.php?id=61561429660889\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div></div>\n                <p class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".card-text\"><b>FDA Compliance</b><br><b><br></b><a href=\"https://yu-sleepe.com/privacy-policy\" class=\"text-black text-primary\">Privacy Policy</a> | <a href=\"https://yu-sleepe.com/disclaimer\" class=\"text-primary\">Disclaimer </a>|&nbsp;<a href=\"https://yu-sleepe.com/terms\" class=\"text-primary\">Terms of Use</a><br><br>\nThe information presented on this website is for educational purposes only and should not be construed as medical advice. It is not intended to diagnose, treat, cure, or prevent any illness. The FDA has not evaluated the information provided herein. It is recommended to consult with a healthcare professional before making any changes to your diet, exercise routine, or supplement regimen. Results may vary from person to person.\n<br><br>\nThe use of third-party trademarks does not imply endorsement or affiliation. Clicking on merchant links and making purchases may result in the retailer paying a commission.<br><br>© Copyright 2026 - <a href=\"https://yu-sleepe.com\" class=\"text-primary\">Yu Sleep</a> All Rights Reserved.</p>\n                \n            </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "footer3-nu",
+          "_isUserblock": true,
+          "_cid": "vpfG8qNerI",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
